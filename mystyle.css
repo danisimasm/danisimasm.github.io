@@ -1,0 +1,28 @@
+.icon-fab{
+    font-size: 300%;
+}
+
+.icon-whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+} 
+
+a:link {
+    text-decoration: none;
+   }
+   
+a:hover {
+    text-decoration: underline;
+   }
+   
+.navbar {
+    height: 135px;
+    background-image: linear-gradient(to left, rgba(255, 0, 0, 0), rgba(255, 51, 133));
+}
+
+.fa-whatsapp{
+    color: rgb(7, 129, 7);
+}
